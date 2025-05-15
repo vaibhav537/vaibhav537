@@ -35,7 +35,7 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav537) (if available)
+- 💼 📬 For collaboration or questions, feel free to reach out via [GitHub Issues](https://github.com/vaibhav537) or email me.
 - 📝 Currently open to collaboration, internships, and freelance opportunities
 - 📫 Reach me via GitHub or any preferred channel
 
