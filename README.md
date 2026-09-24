@@ -2,7 +2,7 @@
 
 # Hi, I'm Vaibhav 👋
 
-### Systems Architect & Full Stack Developer
+### Full-Stack Developer | Next.js • TypeScript • Node.js • PostgreSQL | AI-Integrated Applications
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Next.js+%2B+Tauri+Developer;Rust+%2B+DSA+Learner;Full+Stack+Engineer" alt="Typing SVG" />
 
@@ -18,10 +18,12 @@
 
 ## 🧠 About Me
 
-- 💻 I build **scalable web & desktop applications**
-- ⚡ Currently building **Classify AI** — an AI-powered campus management platform
-- 🦀 Learning **Rust + Data Structures & Algorithms**
-- 🚀 Passionate about **system design & real-world products**
+- 💻 Full-Stack Developer and BTech CSE student
+- 🚀 Building web, desktop, and AI-integrated applications
+- 🤖 Creator of **Classify AI**, a multi-role college ERP and student support platform
+- 🛠️ Working primarily with **Next.js, TypeScript, Node.js, PostgreSQL, React, and Tauri**
+- 📚 Currently strengthening **DSA, backend engineering, and AI engineering** skills
+- 🎯 Interested in building practical, production-oriented software
 
 ---
 
@@ -93,16 +95,16 @@ A role-based campus management platform connecting attendance, academics, commun
 
 ## 🎯 Current Focus
 
-- 🧠 Scaling **Classify AI** toward institutional rollout
-- 🦀 Mastering **Rust + DSA**
-- ⚙️ Exploring **system architecture at scale**
+- 💻 Full-Stack & Software Development
+- 🤖 AI-integrated product development
+- 🧠 Data Structures & Algorithms
+- ⚙️ Backend architecture and scalable systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav537&theme=tokyonight&hide_border=true" />
 
