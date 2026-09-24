@@ -65,31 +65,34 @@ A role-based campus management platform connecting attendance, academics, commun
 - 💬 **Campus Chat** — real-time messaging with groups, attachments, and read receipts
 - 🖥️ Released as a **Windows Desktop app** (v2.4) with an **Android APK** testing build
 
-**Tech:** Next.js, Tauri, Prisma, PostgreSQL (Neon), Socket.io / Pusher, Firebase, Cloudinary, face-api.js
+**Tech:** Next.js, Tauri, Prisma, PostgreSQL (Neon), Pusher, Firebase, Cloudinary, face-api.js
 
-🔗 **Website & downloads:** [classify-ai-app.vercel.app](https://classify-ai-app.vercel.app/)
+🔗 **Website & downloads:** [classify-ai-app.vercel.app](https://classify-ai-app.vercel.app/)  
+🔗 **Repository:** [github.com/vaibhav537/ClassifyAI](https://github.com/vaibhav537/ClassifyAI)
 
 ---
 
 ## 🛠️ Other Projects
 
-### 🎓 GuruCool
-> Education platform with real-time teaching via video conferencing
-- Teacher & student role-based system
-- Live classes using WebRTC + Socket.io
-- Cloud storage & email notifications
+### 🎓 [GuruCool](https://github.com/vaibhav537/GURUCOOL)
+> Role-based e-learning platform with verification workflows and real-time classroom communication.
 
-**Tech:** Next.js, WebRTC, Socket.io, MongoDB, Nodemailer, Cloudinary
+- Admin, Teacher, and Student workflows
+- Socket.IO signaling for classroom rooms and calls
+- OTP/email flows, authentication, and MongoDB-backed data
+
+**Tech:** Next.js, React, MongoDB, Mongoose, Socket.IO, JWT, Nodemailer, Tailwind CSS
 
 ---
 
-### 🛒 PrimePicks
-> Full-featured eCommerce platform with admin & user system
-- Admin dashboard with CRUD product management
-- Stripe payment integration
-- JWT authentication
+### 🛒 [PrimePicks](https://github.com/vaibhav537/PrimePicks)
+> Full-stack e-commerce platform with a Next.js client and Express/PostgreSQL backend.
 
-**Tech:** Next.js, Stripe, JWT, PostgreSQL
+- Product browsing, cart, checkout, and order management
+- Stripe payments with Cash on Delivery support
+- JWT authentication, admin operations, and Cloudinary image handling
+
+**Tech:** Next.js, TypeScript, Express.js, PostgreSQL, Stripe, Cloudinary, Zustand
 
 ---
 
